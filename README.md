@@ -1,7 +1,9 @@
 ## Hi there I'm Hengjju👋
 
 🌱 **배우고 있는 것**: C++, java, C  
-🎓 **지금은 학생이지만 조금씩 개발자로 성장 중!**
+🎓 **지금은 학생이지만 조금씩 개발자로 성장 중!**  
+💬 **여러가지 아이디어들을 서로 공유해요!**  
+
 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
