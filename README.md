@@ -1,6 +1,6 @@
 ## Hi there I'm Hengjju👋
 
-🌱 **배우고 있는 것**: java, SpringBoot**
+🌱 **배우고 있는 것: java, SpringBoot**
 🎓 **지금은 학생이지만 조금씩 개발자로 성장 중!**  
 💬 **여러가지 아이디어들을 서로 공유해요!**  
 
