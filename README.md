@@ -1,12 +1,11 @@
 ## Hi there I'm Hengjju👋
 
-🌱 **배우고 있는 것**: C++, java, C  
+🌱 **배우고 있는 것**: java, SpringBoot
 🎓 **지금은 학생이지만 조금씩 개발자로 성장 중!**  
 💬 **여러가지 아이디어들을 서로 공유해요!**  
 
 
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+!
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hengjju&show_icons=true&hide_title=true&hide_border=true)
