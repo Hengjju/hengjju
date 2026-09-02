@@ -15,6 +15,10 @@
 ![C++](https://img.shields.io/badge/-C++-151515?logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-151515?logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-151515?logo=SpringBoot&logoColor=green)
+![html](https://img.shields.io/badge/HTML-151515?logo=html5&logoColor=E34F26)
+![JS](https://img.shields.io/badge/JavaScript-151515?logo=javascript&logoColor=F7DF1E)
+![CSS](https://img.shields.io/badge/CSS-151515?logo=CSS&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-151515?logo=React&logoColor=61DAFB)
 
 </div>
 
@@ -24,10 +28,8 @@
   
   <br>
   
-  ![html](https://img.shields.io/badge/HTML-151515?logo=html5&logoColor=E34F26)
-  ![JS](https://img.shields.io/badge/JavaScript-151515?logo=javascript&logoColor=F7DF1E)
-  ![CSS](https://img.shields.io/badge/CSS-151515?logo=CSS&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/React-151515?logo=React&logoColor=61DAFB)
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  
   <br>
   
  </div> 
